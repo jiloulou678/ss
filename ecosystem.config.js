@@ -10,7 +10,7 @@ module.exports = {
         "PASS": "notfre",
         // "PROXY": "https://github.com",
      
-        "PORT": 4433
+        "PORT": 443
       }
     }
   ]
