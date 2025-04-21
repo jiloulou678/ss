@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "shadowsocks-ws",
-      script: "/server.min.mjs",
+      script: "./server.min.mjs",
       env: {
         "NODE_ENV": "production",
         "METHOD": "aes-256-gcm",
